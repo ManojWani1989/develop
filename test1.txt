@@ -1,0 +1,17 @@
+Trade prices are not sourced from all markets
+Previous Close	2,650.78
+Open	2,669.34
+Bid	0.00 x 800
+Ask	0.00 x 2900
+Day's Range	2,604.10 - 2,679.74
+52 Week Range	1,990.23 - 3,030.93
+Volume	2,280,972
+Avg. Volume	1,850,580
+Market Cap	1.724T
+Beta (5Y Monthly)	1.07
+PE Ratio (TTM)	23.25
+EPS (TTM)	112.20
+Earnings Date	Apr 25, 2022 - Apr 29, 2022
+Forward Dividend & Yield	N/A (N/A)
+Ex-Dividend Date	N/A
+1y Target Est	3,454.77
