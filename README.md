@@ -1,7 +1,7 @@
 # my-website
 
 
-
+This is in branch example.
 <<<<<<< HEAD
 # This is awesome website
 =======
